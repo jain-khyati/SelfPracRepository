@@ -1,1 +1,2 @@
 Testing Git with this file
+Making changes in Github to be pulled into Gitbash
